@@ -5,4 +5,4 @@
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, NetworkingUnreal, "NetworkingUnreal" );
 
-DEFINE_LOG_CATEGORY(LogNetworkingUnreal)
+DEFINE_LOG_CATEGORY(LogNetworkingUnreal);

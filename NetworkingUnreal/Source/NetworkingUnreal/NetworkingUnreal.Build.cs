@@ -27,6 +27,7 @@ public class NetworkingUnreal : ModuleRules
 			"NetworkingUnreal",
 			"NetworkingUnreal/Variant_Platforming",
 			"NetworkingUnreal/Variant_Platforming/Animation",
+			"NetworkingUnreal/Variant_Coop",
 			"NetworkingUnreal/Variant_Combat",
 			"NetworkingUnreal/Variant_Combat/AI",
 			"NetworkingUnreal/Variant_Combat/Animation",
